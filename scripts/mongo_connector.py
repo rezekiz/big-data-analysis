@@ -7,7 +7,7 @@ from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 import pandas as pd
 
-uri = "mongodb+srv://bigdata:bioinfo24@bigdata.l3at7tn.mongodb.net/?retryWrites=true&w=majority&appName=BigData"
+uri = 'your-connection-string'
 
 # Create a new client and connect to the server
 client = MongoClient(uri, server_api=ServerApi('1'))
