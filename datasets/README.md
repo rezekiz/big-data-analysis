@@ -1,1 +1,5 @@
-Pasta com conjuntos de dados a serem usados na análise.
+The datasets utilized in this research project are sourced from [Our World in Data](https://ourworldindata.org/). We have selected distinct datasets that examine the incidence and prevalence of mental diseases, obesity, education levels, and poverty over time.
+
+The obesity dataset examines a wide range of characteristics associated with obesity and its correlations, including mortality rates, risk of coronary diseases, and gender-specific prevalence. For the purposes of this study, we will focus on the percentage of adults who are overweight or obese and the overall prevalence of obesity in adults. The dataset can be found here.
+
+The dataset on mental illnesses, like the previously mentioned datasets, examines the prevalence, burden of disease, and risk factors of various mental illnesses worldwide. Our focus will be exclusively on the prevalence of mental disorders, specifically depression, bipolar disorder, anxiety disorder, and schizophrenia. Additionally, we will attempt to link the eating disorder data within this dataset to the obesity statistics\cite{MentalHealth}.
