@@ -1,5 +1,6 @@
 # Ignore mongodb
 mongodb/
+.idea
 
 # MacOS specific
 .DS_Store
